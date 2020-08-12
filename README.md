@@ -12,3 +12,5 @@ Aprendendo como usar a tecnologia para deixar tudo mais bonito e acessível.
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>](https://youtube.com/nandoangelo/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/nandoangelo/)
 [<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/5563984021954)
+
+Obrigado pela atenção!
