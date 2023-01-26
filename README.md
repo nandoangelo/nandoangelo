@@ -1,6 +1,6 @@
 <!-- Escreva sua saudação aqui dentro -->
 <h1 align="center">
-  Olá, eu sou o Fernando Angelo! :vulcan_salute:
+  Olá, eu sou o Nando Angelo! :vulcan_salute:
 </h1>
 
 <!-- 
