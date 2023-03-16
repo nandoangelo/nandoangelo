@@ -28,12 +28,19 @@ Analista de sistemas graduado em Sistemas de Informação pela Universidade Cat�
   ===
   Gera aquele gráfico animado com informações do seu Github.
   Altere o "nandoangelo" pelo seu nick no GitHub e a mágica acontece -->
-<div align="center">
+
+<!-- O formato abaixo parece ter saído do ar -->
+<!-- <div align="center">
   <a href="https://github.com/nandoangelo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nandoangelo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandoangelo&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb"/>
-</div>
+</div> -->
 
+<!-- Vamos testar este aqui em MarkDown, então... -->
+<div align="center">
+  <!-- Documentação em https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
+  ![NandoAngelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoangelo&hide=contribs,prs)
+</div>
 <!-- Subtítulo "Tecnologias Favoritas" -->
 <h2 align="center">
   Tecnologias favoritas
