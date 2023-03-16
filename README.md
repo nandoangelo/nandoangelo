@@ -39,7 +39,9 @@ Analista de sistemas graduado em Sistemas de Informação pela Universidade Cat�
 <!-- Vamos testar este aqui em MarkDown, então... -->
 <div align="center">
   <!-- Documentação em https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
+  
   ![NandoAngelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoangelo&hide=contribs,prs)
+
 </div>
 <!-- Subtítulo "Tecnologias Favoritas" -->
 <h2 align="center">
