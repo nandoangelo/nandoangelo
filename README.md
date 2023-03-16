@@ -40,7 +40,7 @@ Analista de sistemas graduado em Sistemas de Informação pela Universidade Cat�
 <div align="center">
   <!-- Documentação em https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md -->
   
-  ![NandoAngelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoangelo&show_icons=true&theme=transparent)
+  ![NandoAngelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoangelo&show_icons=true&hide_border=true&theme=transparent)
 
 </div>
 <!-- Subtítulo "Tecnologias Favoritas" -->
@@ -52,11 +52,11 @@ Analista de sistemas graduado em Sistemas de Informação pela Universidade Cat�
 encontre mais imagens aqui: https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
 <p align="center">
   <!-- Logo do HTML5 -->
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=61dafb"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=025cda"></a>
   <!-- Logo do CSS3 -->
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=61dafb"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=025cda"></a>
   <!-- Logo do JavaScript -->
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=61dafb"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=025cda"></a>
 </p>
 
 <!-- Subtítulo "Fale comigo" -->
@@ -68,22 +68,22 @@ encontre mais imagens aqui: https://github.com/iuricode/readme-template/blob/mai
 <p align="center">
   <!-- E-MAIL = coloque seu e-mail logo a seguir de "mailto:" -->
   <a href="mailto:nandoangelo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=61dafb">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=025cda">
   </a>
 
   <!-- LINKEDIN = troque o link abaixo pelo o link do seu perfil no LinkedIn -->
   <a href="https://www.linkedin.com/in/nandoangelo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=61dafb">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=025cda">
   </a>
   
   <!-- INSTAGRAM = troque o link abaixo pelo o link do seu perfil no Instagram -->
   <a href="https://www.instagram.com/nandoangelo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=61dafb">
+    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=025cda">
   </a>
   
   <!-- WHATSAPP = troque o numero abaixo seguindo esse formato: +55 DDD TELEFONE (tudo junto) -->
   <a href="https://wa.me/+5563984021954" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=61dafb">
+    <img src="https://img.shields.io/badge/Whatsapp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=025cda">
   </a>
 </p>
 
